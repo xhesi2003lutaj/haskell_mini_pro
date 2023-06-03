@@ -1,3 +1,4 @@
+{-dinnering problem-}
 module Main (main) where
 import Test.HUnit
 
