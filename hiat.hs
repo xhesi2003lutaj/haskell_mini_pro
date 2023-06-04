@@ -1,3 +1,4 @@
+{-ICS-}
 divisors :: Int -> [Int]
 
 divisors n = [x | x <- [1..n], mod n x == 0]
